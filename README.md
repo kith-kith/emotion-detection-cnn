@@ -134,6 +134,9 @@ test/
 * Adjust `img_size` or `batch_size` in scripts if needed.
 
 ---
+## Demo
+
+![Emotion Detection Demo](assets/demo.gif)
 
 ## License
 
